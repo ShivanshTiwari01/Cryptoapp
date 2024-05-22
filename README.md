@@ -71,14 +71,6 @@ Make sure you have the following installed on your machine:
 - `npm test` / `yarn test`: Runs the test suite.
 - `npm run eject` / `yarn eject`: Ejects the app from Create React App setup.
 
-## Contributing
-
-Feel free to submit issues or pull requests if you want to contribute to the project.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [RapidAPI](https://rapidapi.com) for the cryptocurrency API
@@ -88,3 +80,11 @@ This project is licensed under the MIT License.
 ---
 
 Thank you for checking out the Crypto App! If you have any questions or feedback, feel free to reach out.
+
+## Contributing
+
+Feel free to submit issues or pull requests if you want to contribute to the project.
+
+## License
+
+This project is licensed under the MIT License.
